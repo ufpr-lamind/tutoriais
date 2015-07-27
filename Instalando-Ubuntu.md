@@ -1,2 +1,3 @@
 # Instalando Ubuntu 
-Verificar se o usb está sendo bootado primário.
+
+Verificar se o usb é o boot primário.
