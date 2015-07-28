@@ -3,13 +3,13 @@
   - Faça boot do USB (normalmente apertando F12 durante a inicialização)
   - **Atenção**, se aparecer `Failed to load COM32...boot: `, aperte TAB, digite `live-install` e dê enter.
   - Instale em inglês
-  - Verifique que a internet está funcionando
+  - Verifique que a internet está funcionando e marque a opção `Download updates while installing`
   - Selecione a opção `erase disk and install ubuntu`
   - Selecione `Fuso horário de São Paulo`
   - Selecione o idioma do teclado como `Português(Brasil)` e testar se as teclas `ç`,`ã`,`é` estão devidamente associadas
   - Preencha
     - Name: LAMIND
-    - Computer Name: `lamind-1-1` (lamind-fileira-posiçao) a partir do masi proximo do quadro e mais proximo da porta
+    - Computer Name: `lamind-1-1` (lamind-fileira-posiçao) a partir do mais próximo do quadro e mais próximo da porta
     - User: `lamind-admin`
     - Password: determinada previamente
     - Marcar `require my password to log in`
