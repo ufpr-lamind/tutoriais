@@ -1,3 +1,23 @@
 # Instalando Ubuntu 
 
-Verificar se o usb é o boot primário.
+  - Faça boot do USB (normalmente apertando F12 durante a inicialização)
+  - **Atenção**, se aparecer `Failed to load COM32...boot: `, aperte TAB, digite `live-install` e dê enter.
+  - Instale em inglês
+  - Verifique que a internet está funcionando
+  - Selecione a opção `erase disk and install ubuntu`
+  - Selecione `Fuso horário de São Paulo`
+  - Selecione o idioma do teclado como `Português(Brasil)` e testar se as teclas `ç`,`ã`,`é` estão devidamente associadas
+  - Preencha
+    - Name: LAMIND
+    - Computer Name: `lamind-1-1` (lamind-fileira-posiçao) a partir do masi proximo do quadro e mais proximo da porta
+    - User: `lamind-admin`
+    - Password: determinada previamente
+    - Marcar `require my password to log in`
+  - Reinicie o computador e faça o login
+  - Vá em User accounts
+  - Aperte unlock e digite o password
+  - Crie um novo usuário (standard) clicando no `+`
+    - Full name: Aluno
+    - Username: `lamind`
+  - Clique em password e em action `login in without a password` e clique em change
+  - Clique em software updater, atualize (install now) e reinicie quando pedir
