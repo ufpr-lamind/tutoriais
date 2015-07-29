@@ -48,3 +48,20 @@ sudo add-apt-repository ppa:webupd8team/atom
 sudo apt-get update
 sudo apt-get install atom
 ````
+  - [Julia](https://julialang.org)
+    Primeiro você deve baixar o `julia-mngr` usando os comandos abaixo
+````bash
+mkdir ~/packages
+cd ~/packages
+git clone https://github.com/abelsiqueira/julia-mngr
+cd julia-mngr
+sudo make
+julia-mngr install
+````
+Agora você deve selecionar as opções adequadas, que são: 64, no, no e
+julia-release, correspondentes aos números 2, 2, 2 e 1, respectivamente.
+Teste rodando
+````
+julia
+````
+Se o programa abrir, deve ter funcionado. Feche com Ctrl+D.
