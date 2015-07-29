@@ -20,5 +20,5 @@ Em breve também teremos uma versão disponível em
 
 Estes documentos foram criados, principalmente, por
   - [Abel Soares Siqueira](http://github.com/abelsiqueira)
-  - [Andressa](http://github.com/andryolivei)
+  - [Andressa de Oliveira](http://github.com/andryolivei)
   - [André Andriolli Buhler](http://github.com/andrebuhler)
