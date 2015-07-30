@@ -10,6 +10,8 @@ Em breve também teremos uma versão disponível em
 
 ## Situação atual
 
+[Horário de funcionamento](horario.md)
+
 **Coordenador**: Abel Soares Siqueira
 
 **Estagiários**:
