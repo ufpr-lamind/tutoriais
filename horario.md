@@ -4,12 +4,12 @@ Os horários de funcionamento do laboratório durante o segundo semstre de 2015
 são:
 
 Dia      | Horário
--- | --
+-------- | -------
 Segunda: | 15:30 às 23:00
 Terça:   | 13:00 às 23:00
 Quarta:  | 15:30 às 23:00
 Quinta:  | 13:00 às 23:00
-Sexta:   | 9:00 às 23:00
+Sexta:   |  9:00 às 23:00
 
 Os horários dos estagiários:
 
