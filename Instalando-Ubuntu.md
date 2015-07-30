@@ -1,5 +1,6 @@
 # Instalando Ubuntu
 
+  - [Crie um um USB bootável](usb.md)
   - Faça boot do USB (normalmente apertando F12 durante a inicialização)
   - **Atenção**, se aparecer `Failed to load COM32...boot: `, aperte TAB, digite
    `live-install` e dê enter.
@@ -18,6 +19,15 @@
     - Password: determinada previamente
     - Marcar `require my password to log in`
   - Reinicie o computador e faça o login
+  - Agora você vai fazer a atualização inicial com os passos abaixo
+  e deve demorar alguns minutos.
+  Enquanto a atualização vai sendo feito, continue com os passos que não
+  envolvem o terminal.
+  - Abra o terminal (`gnome-terminal`) e digite
+````bash
+sudo apt-get update
+sudo apt-get upgrade
+````
   - Vá em User accounts
   - Aperte unlock e digite o password
   - Crie um novo usuário (standard) clicando no `+`
@@ -25,23 +35,16 @@
     - Username: `lamind`
   - Clique em password e em action `login in without a password` e clique em
   change
-  - Abra o Launcher (ou aperte o botão com símbolo do Windows), digite "Software
-   & updates" e clique no ícone que apareceu
-  - Na aba `Ubuntu Software` clique em `Download from` e selecione `Other...`.
-  - Navegue pela lista, escolhendo `Brazil` e depois `ubuntu.c3sl.ufpr.br`.
-  - Clique em `Choose Server` e depois em `Close`
-  - Clique em `Reload` e espera atualizar
-  - Clique em software updater, atualize (install now) e reinicie quando pedir
 
 ## Após a instalação
 
-Depois que a instalação estiver concluída, alguns softwares devem ser
-instalados:
+Depois que a instalação e a atualização estiverem concluídas, alguns
+softwares devem ser instalados:
 O seguinte comando instala a maioria pelo terminal:
 ````bash
 sudo apt-get install geany gfortran git octave texlive-latex-extra vim
 ````
-Os programas a seguir devem ser instalados seguinte informações específicas
+Os programas a seguir devem ser instalados seguindo informações específicas
   - [Atom](https://atom.io)
 ````bash
 sudo add-apt-repository ppa:webupd8team/atom
