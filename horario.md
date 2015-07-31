@@ -13,9 +13,9 @@ Sexta:   |  9:00 às 23:00
 
 Os horários dos estagiários:
 
-| Seg | Ter | Qua | Qui | Sex
+HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**9:00**  |          |          |          |          | André
+**09:00** |          |          |          |          | André
 **11:00** |          |          |          |          | André
 **13:00** |          | André    |          | André    | Andressa
 **15:30** | André    | André    | André    | André    | Andressa
