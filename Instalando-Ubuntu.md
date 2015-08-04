@@ -39,8 +39,8 @@ sudo apt-get upgrade
 ## Após a instalação
 
 Depois que a instalação e a atualização estiverem concluídas, alguns
-softwares devem ser instalados:
-O seguinte comando instala a maioria pelo terminal:
+softwares devem ser instalados. O seguinte comando instala a maioria pelo 
+terminal:
 ````bash
 sudo apt-get install geany gfortran git octave texlive-latex-extra vim
 ````
@@ -52,7 +52,8 @@ sudo apt-get update
 sudo apt-get install atom
 ````
   - [Julia](https://julialang.org)
-    Primeiro você deve baixar o `julia-mngr` usando os comandos abaixo
+    Primeiro você deve ter instalado o programa **GIT** e ter baixar o
+`julia-mngr` usando os comandos abaixo
 ````bash
 mkdir ~/packages
 cd ~/packages
