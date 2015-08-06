@@ -42,7 +42,7 @@ Depois que a instalação e a atualização estiverem concluídas, alguns
 softwares devem ser instalados. O seguinte comando instala a maioria pelo 
 terminal:
 ````bash
-sudo apt-get install geany gfortran git octave texlive-latex-extra vim
+sudo apt-get install geany gfortran git octave texlive-latex-extra unrar vim
 ````
 Os programas a seguir devem ser instalados seguindo informações específicas
   - [Atom](https://atom.io)
