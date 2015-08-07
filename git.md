@@ -35,6 +35,7 @@ git merge lamind/master (Para que o nosso local vá para o lugar certo)
 git push (Para atualizar o do site)
 ````
 ## Trabalhando e enviando o trabalho
+
 Atente-se a estar no diretório `tutoriais`
 
 ```
