@@ -1,6 +1,6 @@
 # Horários
 
-Os horários de funcionamento do laboratório durante o segundo semstre de 2015
+Os horários de funcionamento do laboratório durante o segundo semestre de 2015
 são:
 
 Dia      | Horário
@@ -22,3 +22,8 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 **17:00** | Andressa | Andressa | Andressa | Andressa | Andressa
 **19:00** | Andressa | André    | Andressa | Andressa | Andressa
 **21:00** | Andressa | Andressa | Andressa | André    | Andressa
+
+Os horário reservados:
+
+  - Seg e Sex das 15:30 às 17:30 para CM103
+  - Seg e Qua das 19:00 às 21:00 para CM114
