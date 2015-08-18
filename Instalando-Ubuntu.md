@@ -39,7 +39,7 @@ sudo apt-get upgrade
 ## Após a instalação
 
 Depois que a instalação e a atualização estiverem concluídas, alguns
-softwares devem ser instalados. O seguinte comando instala a maioria pelo 
+softwares devem ser instalados. O seguinte comando instala a maioria pelo
 terminal:
 ````bash
 sudo apt-get install geany gfortran git octave texlive-latex-extra unrar vim
@@ -52,6 +52,7 @@ sudo apt-get update
 sudo apt-get install atom
 ````
   - [Julia](https://julialang.org)
+
     Primeiro você deve ter instalado o programa **GIT** e ter baixar o
 `julia-mngr` usando os comandos abaixo
 ````bash
@@ -69,3 +70,27 @@ Teste rodando
 julia
 ````
 Se o programa abrir, deve ter funcionado. Feche com Ctrl+D.
+
+  - R
+
+  ````
+  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+sudo add-apt-repository "deb http://star-www.st-andrews.ac.uk/cran/bin/linux/ubuntu trusty/"
+sudo apt-get update
+sudo apt-get install r-base
+  ````
+  - [RStudio](https://download1.rstudio.org)
+
+    - Baixe a versão mais recente no site
+    - Coloque-o na pasta raiz
+    - Execute os comandos abaixo
+  ````
+  sudo apt-get install libjpeg62
+  sudo dpkg -i *.deb
+  rm *.deb
+  ````
+
+  **Obs:** Talvez seja necessário a instalação de um pacote:
+   ````
+   $ sudo apt-get install libx11-dev
+  ````

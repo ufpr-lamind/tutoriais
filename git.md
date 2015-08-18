@@ -9,11 +9,11 @@ nossos tutoriais.
 Para cada máquina nova:
 ```
 
-git clone https://github.com/usuário/tutoriais/ (onde o usuário é o registrado
+git clone https://github.com/"usuário"/tutoriais/ (onde o usuário é o registrado
 no Github)
-git config user.name
-git configuser.email
-git configcolor.ui auto
+git config user.name "Seu nome"
+git config user.email "Seu email"
+git config color.ui auto
 
 git log (para ver o que aconteceu)
 git remote add lamind https://github.com/ufpr-lamind/tutoriais
