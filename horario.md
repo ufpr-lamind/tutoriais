@@ -27,3 +27,7 @@ Os horário reservados:
 
   - Seg e Sex das 15:30 às 17:30 para CM103
   - Seg e Qua das 19:00 às 21:00 para CM114
+
+Reservas esporádicas:
+
+  - 27/08/2015 - 15:30 às 17:30 para a professora Ailin.
