@@ -53,18 +53,15 @@ sudo apt-get install atom
 ````
   - [Julia](https://julialang.org)
 
-    Primeiro você deve ter instalado o programa **GIT** e ter baixar o
-`julia-mngr` usando os comandos abaixo
+Você deve instalar a versâo estãvel do Julia. Atualmente, esta versão ẽ a 0.3.11.
+Vá à [página de download](http://julialang.org/downloads/) e na parte de current
+release procure por **Generic Linux Binaries** e baixe a de 64 bits. Abra e mande
+extrair para qualquer uma pasta que você tenha acesso. Pelo terminal entre nessa
+pasta e rode os comandos
 ````bash
-mkdir ~/packages
-cd ~/packages
-git clone https://github.com/abelsiqueira/julia-mngr
-cd julia-mngr
-sudo make
-julia-mngr install
+cd bin
+sudo ln -s $PWD/julia /usr/local/bin/
 ````
-Agora você deve selecionar as opções adequadas, que são: 64, no, no e
-julia-release, correspondentes aos números 2, 2, 2 e 1, respectivamente.
 Teste rodando
 ````
 julia
