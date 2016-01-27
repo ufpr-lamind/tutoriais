@@ -1,8 +1,8 @@
-# Criando USB com Ubuntu
-
-  - Inicialmente baixa a versão LTS do Ubuntu (a última foi a 14.04) pelo
-    site [Ubuntu-br](http://ubuntu-br.org/download) ou pelo C3SL ou
-    qualquer outro lugar que disponibilize o iso em 64 bits.
-  - Abra o "Startup Disk Creator"
-  - Selecione o .iso na parte de cima e verifique que o USB está marcado na
-    parte de baixo. **Atenção**: o USB será completamente apagado.
+# Criando USB com Mint
+  - Baixe a versão Mint (a última foi a 17.3 Rosa Cinnamon) pelo site
+  [Linux Mint](http://www.linuxmint.com/download.php) ou qualquer outro lugar
+  que disponibilize a iso em 64 bits.
+  - Abra o "USB Image Write"
+  - Selecione a .iso em "Write image:" e escolha o dispositivo USB em "to".
+  **Atenção**: o USB será completamente apagado.
+  - Clique em "Write" e aguarde finalizar o processo.
