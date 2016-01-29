@@ -26,6 +26,6 @@ Os horário reservados:
 
 
 Reservas esporádicas:
- - 22~24/02 - dia todo - Professor Geovani
+ - 22~24/02 - dia todo - Professor Abel
  - 15/03 - 07:00~12:00 - Professor Carlos Henrique
  - 29/03 - 07:00~12:00 - Professor Carlos Henrique

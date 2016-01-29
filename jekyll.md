@@ -1,16 +1,12 @@
 # Jekyll
 É um gerador de sites estáticos que serão hospedados no GitHub.
 ## Instalação
-<!---
-sudo apt-get install ruby-dev
-sudo apt-get install ruby ruby-dev make gcc nodejs
--->
+
 ````bash
 sudo add-apt-repository ppa:brightbox/ruby-ng-experimental
 sudo apt-get update
-sudo apt-get install ruby2.2
-sudo apt-get install ruby2.2-dev
-sudo apt-get install gems
+sudo apt-get install ruby2.2 ruby2.2-dev gems make gcc nodejs
+
 sudo gem install jekyll
 ````
 ## Criação dos arquivos básicos e executando localmente

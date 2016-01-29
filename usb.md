@@ -1,4 +1,4 @@
-# Criando USB com Mint
+# Criando USB bootavel com Mint
   - Baixe a versão Mint (a última foi a 17.3 Rosa Cinnamon) pelo site
   [Linux Mint](http://www.linuxmint.com/download.php) ou qualquer outro lugar
   que disponibilize a iso em 64 bits.

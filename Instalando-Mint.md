@@ -1,4 +1,4 @@
-# Instalando Ubuntu
+# Instalando Mint
 
   - [Crie um um USB bootável](usb.md)
   - Faça boot do USB (normalmente apertando F12 durante a inicialização)
