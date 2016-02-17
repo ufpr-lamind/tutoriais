@@ -35,10 +35,9 @@ git merge lamind/master (Para que o nosso local vá para o lugar certo)
 git push (Para atualizar o do site)
 ````
 ## Branchs
-Branch é uma ramificação de um commit. O branch principal `(master branch)`
-sempre aponta para o último commit feito e avança automaticamente. Ao se criar
-um novo branch podemos trabalhar o projeto em direções diferentes e mais tarde
-fundir com o branch principal.
+Branch é uma ramificação de um commit. Ao se criar um novo branch podemos
+trabalhar o projeto em direções diferentes e mais tarde fundir com o branch
+principal `(master branch)`.
 
 Para criar branchs localmente usamos o comando `git branch <nomebranch>`. Ao
 criarmos um branch não estaremos trabalhando nele ainda, para isso devemos
