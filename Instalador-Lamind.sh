@@ -35,7 +35,8 @@ r-base ruby2.2 ruby2.2-dev ssh subversion texlive-latex-extra unrar vim -y
 echo  "\n\n Instalação Principal Completa \n\n"
 
 #Atom plugins
-sudo apm install language-julia ink julia-client language-matlab-octave
+sudo apm install ink julia-client  language-julia language-matlab-octave \
+latex-completions
 echo  "\n\n Atom plugins Completos \n\n"
 
 #julia

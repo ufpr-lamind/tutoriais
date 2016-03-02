@@ -7,9 +7,11 @@ Atualmente o programa encotra-se na versao 1.0.
 
 ## Programas
 - Atom
-    - language-julia
     - ink
     - julia-client
+    - language-julia
+    - language-matlab-octave
+    - latex-completions
 - Build-esssential
 - CMake
 - Curl
