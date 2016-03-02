@@ -1,27 +1,30 @@
 # Horários
 
 Os horários de funcionamento do laboratório durante o primeiro semestre de 2016
-são * :
-<!--
+são  :
+
 Dia      | Horário
 -------- | -------
-Segunda: | 08:00 às 19:00
-Terça:   | 08:00 às 19:00
-Quarta:  | 08:00 às 19:00
-Quinta:  | 08:00 às 19:00
-Sexta:   | 08:00 às 19:00
--->
+Segunda: | 08:30 às 22:00
+Terça:   | 08:30 às 21:30
+Quarta:  | 08:30 às 12:00 e 17:30 às 21:30
+Quinta:  | 08:30 às 21:30
+Sexta:   | 13:00 às 15:30 e 17:30 às 21:30
 
-Os horários dos estagiários*:
+Os horários dos estagiários:
 
-<!--
+
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**08:00** | André    | André    | André    | André    | André
+**08:30** | André    | André    | André    | André    | ---------
 **12:00** |----------|----------|--------- |----------|----------
-**13:00** | Andressa | Andressa | Andressa | Andressa | Andressa
--->
-** * ** Em construção
+**13:00** | Andre    | Andressa | -------- | Andressa | Andressa
+**15:30** | Andressa | Andressa | -------- | Andressa | --------
+**17:30** | Andressa | Andressa | Andressa | Andressa | Andressa
+**19:30** | Andressa | Andre    | Andressa | Andre    | Andressa
+**21:30** | Andressa | -------- | ---------| -------- |---------
+
+
 
 Os horário reservados:
 

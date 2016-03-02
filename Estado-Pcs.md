@@ -1,6 +1,6 @@
 # Estado Atual dos Computadores do Lamind
-  - Todos sem CUTEst
   - x-1 e x-8 sem cabo de internet
+  - 1-2 ip clonado do 1-1 (esperando liberação)
 
 ## Mapa
 
