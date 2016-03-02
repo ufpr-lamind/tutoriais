@@ -5,7 +5,7 @@ Laboratório de Matemática Industrial (LAMIND).
 Estes documentos são criado principalmente pelos estagiários
 para serem utilizados pelos estagiários.
 
-Em breve também teremos uma versão disponível em
+Também temos uma versão disponível em
 [ufpr-lamind.github.io](http://ufpr-lamind.github.io).
 
 ## Situação atual
