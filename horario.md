@@ -16,12 +16,12 @@ Os horários dos estagiários:
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**08:30** | André    | André    | André    | André    | ---------
+**08:30** | André    | André    | André    | André    | André    
 **12:00** |----------|----------|--------- |----------|----------
 **13:00** | Andre    | Andressa | -------- | Andressa | Andressa
 **15:30** | Andressa | Andressa | -------- | Andressa | --------
 **17:30** | Andressa | Andressa | Andressa | Andressa | Andressa
-**19:30** | Andressa | Andre    | Andressa | Andre    | Andressa
+**19:30** | Andressa | -------- | Andressa | -------- | Andressa
 **21:30** | Andressa | -------- | ---------| -------- |---------
 
 
@@ -32,11 +32,12 @@ Os horário reservados:
  HH:MM | Seg | Ter | Qua | Qui | Sex
  --: | :--- | --- | --- | --- | ---
  **15:30** |     |     | Ailin    |    | Ailin
- **17:30** | Abel | Adriana | Abel |Adriana|
+ **17:30** | Abel |     | Abel |     |
  **19:00** | Saulo  | Matioli | Saulo | Matioli |
 
 
 Reservas esporádicas:
  - 15/03 - 07:00~12:00 - Professor Carlos Henrique
+ - 28/03 - 13:30~15:10 - Professora Ailin
  - 29/03 - 07:00~12:00 - Professor Carlos Henrique
- - 31/03~01/04 - dia todo - Professor Abel
+ - 29/03 - 15:30~17:10 - Professora Ailin
