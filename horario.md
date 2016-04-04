@@ -32,9 +32,10 @@ Os horário reservados:
  HH:MM | Seg | Ter | Qua | Qui | Sex
  --: | :--- | --- | --- | --- | ---
  **13:30** | Ailin |     | Ailin |      |
- **15:30** |     |     | Ailin    |    | Ailin
+ **15:30** |     | Ailin | Ailin | Ailin | Ailin
  **17:30** | Abel |     | Abel |     |
  **19:00** | Saulo  | Matioli | Saulo | Matioli |
 
 
 Reservas esporádicas:
+ - 19/04 - 13:30~15:30 - Professora Ailin
