@@ -17,12 +17,12 @@ Os horários dos estagiários:
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
 **08:30** | André    | André    | André    | André    | André    
-**12:00** |     |     |     |     |     
-**13:00** | Andre    | Andressa |      | Andressa | Andressa
-**15:30** | Andressa | Andressa |      | Andressa |      
+**12:00** |          |          |          |          |     
+**13:00** | Andre    | Andressa |          | Andressa | Andressa
+**15:30** | Andressa | Andressa |          | Andressa |      
 **17:30** | Andressa | Andressa | Andressa | Andressa | Andressa
-**19:30** | Andressa |            | Andressa |     | Andressa
-**21:30** | Andressa |       |      |       |     
+**19:30** | Andressa |          | Andressa |          | Andressa
+**21:30** | Andressa |          |          |          |     
 
 
 
@@ -38,4 +38,3 @@ Os horário reservados:
 
 
 Reservas esporádicas:
- - 19/04 - 13:30~15:30 - Professora Ailin
