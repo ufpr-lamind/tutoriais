@@ -5,7 +5,7 @@ são  :
 
 Dia      | Horário
 -------- | -------
-Segunda: | 08:30 às 20:30
+Segunda: | 08:30 às 21:00
 Terça:   | 08:30 às 19:00
 Quarta:  | 08:30 às 12:00 e 17:30 às 21:30
 Quinta:  | 08:30 às 19:00
@@ -22,7 +22,7 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 **15:30** | Andressa | Andressa |          | Andressa |      
 **17:30** | Andressa | Andressa | Andressa | Andressa |
 **19:30** | Andressa |          | Andressa |          |
-**21:00** |          |          |          |          |     
+**21:30** |          |          |          |          |     
 
 
 
