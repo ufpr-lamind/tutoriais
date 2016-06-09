@@ -38,6 +38,6 @@ Os horário reservados:
 
 
 Reservas esporádicas:
-- 03/07 - dia todo - Professor Abel
+- 04/07 - dia todo - Professor Abel
 - 08/07 - 10:00 - Professora Ailin
 - 01~03/08 - dia todo - Professor Abel
