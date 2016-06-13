@@ -6,20 +6,20 @@ são  :
 Dia      | Horário
 -------- | -------
 Segunda: | 08:30 às 21:00
-Terça:   | 08:30 às 19:00
-Quarta:  | 08:30 às 12:00 e 17:30 às 21:30
+Terça:   | 12:00 às 19:00
+Quarta:  | 08:30  às 21:30
 Quinta:  | 08:30 às 19:00
-Sexta:   | 08:30 às 15:30 e 17:30 às 21:30
+Sexta:   | 08:30 às 15:30 
 
 Os horários dos estagiários:
 
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**08:30** | André    | André    | André    | André    | André    
+**08:30** | André    |          | André    | André    | André    
 **12:00** | Andressa | Andressa | Andressa | Andressa | Andressa
-**13:00** | Andre    | Andressa |          | Andressa | Andressa
-**15:30** | Andressa | Andressa |          | Andressa |      
+**13:00** | Andre    | Andressa | André    | Andressa | Andressa
+**15:30** | Andressa | Andressa | André    | Andressa |      
 **17:30** | Andressa | Andressa | Andressa | Andressa |
 **19:30** | Andressa |          | Andressa |          |
 **21:30** |          |          |          |          |     
