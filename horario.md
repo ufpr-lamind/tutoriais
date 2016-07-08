@@ -1,6 +1,6 @@
 # Horários
 
-Os horários de funcionamento do laboratório durante o primeiro semestre de 2016
+Os horários de funcionamento do laboratório durante o segundo semestre de 2016
 são  :
 
 Dia      | Horário
@@ -31,14 +31,17 @@ Os horário reservados:
 
  HH:MM | Seg | Ter | Qua | Qui | Sex
  --: | :--- | --- | --- | --- | ---
- **13:30** | Ailin |     | Ailin |      |
- **15:30** | Ailin | Ailin |       | Ailin |  Ailin
- **17:30** | Abel |     | Abel |     |
- **19:00** | Saulo  | Matioli | Saulo | Matioli |
+ **13:30** |       |       |       |      | CM103
+ **15:30** | CM103 |       |       |      |  
+ **17:30** |       |       |       |      |
+ **19:30** | CM114 |       | CM114 |      | CM141
+ **21:30** | CM116 |       | CM116 |      | CM141
+
+- CM103 - Laboratório de Matemática Aplicada
+- CM114 - Métodos Computacionais de Otimização
+- CM116 - Tópicos de Matemática Aplicada I
+- CM141 - Tópicos de Matemática II
 
 
 Reservas esporádicas:
-- 04/07 - dia todo - Professor Abel
-- 05/07 - dia todo - Professor Carlos Henrique
-- 08/07 - 10:00 - Professora Ailin
 - 01~03/08 - dia todo - Professor Abel
