@@ -29,18 +29,20 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 Os horário reservados:
 
 
- HH:MM | Seg | Ter | Qua | Qui | Sex
- --: | :--- | --- | --- | --- | ---
- **13:30** |       |       |       |      | CM103
- **15:30** | CM103 |       |       |      |  
- **17:30** |       |       |       |      |
- **19:30** | CM114 |       | CM114 |      | CM141
- **21:30** | CM116 |       | CM116 |      | CM141
+ HH:MM     |  Seg  |  Ter  |  Qua  |  Qui  | Sex
+ --:       | :---  |  ---  |  ---  |  ---  | ---
+ **13:30** |EMA766 |       |EMA766 |       | CM103
+ **15:30** | CM103 | CM105 |       | CM105 |  
+ **17:30** |       |       |       |       |
+ **19:30** | CM114 |       | CM114 |       | CM141
+ **21:30** | CM116 |       | CM116 |       | CM141
 
-- CM103 - Laboratório de Matemática Aplicada
-- CM114 - Métodos Computacionais de Otimização
-- CM116 - Tópicos de Matemática Aplicada I
-- CM141 - Tópicos de Matemática II
+- CM103 - Laboratório de Matemática Aplicada - Professor Abel
+- CM105 - Métodos de Matemática Aplicada II - Professora Ailin
+- CM114 - Métodos Computacionais de Otimização - Professor Abel
+- CM116 - Tópicos de Matemática Aplicada I - Professores do Departamento
+- CM141 - Tópicos de Matemática II - Professor Abel
+- EMA766 - Tópicos Especiais Equações Diferenciais - Professora Ailin
 
 
 Reservas esporádicas:
