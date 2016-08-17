@@ -5,24 +5,32 @@ são  :
 
 Dia      | Horário
 -------- | -------
-Segunda: | 08:30 às 21:00
-Terça:   | 12:00 às 19:00
-Quarta:  | 08:30  às 21:30
-Quinta:  | 08:30 às 19:00
-Sexta:   | 08:30 às 15:30
+Segunda: | 07:00 às 09:30, 12:30 às 15:30, 16:30 às 18:00
+Terça:   | 07:00 às 12:00, 13:00 às 17:30, 18:00 às 21:30
+Quarta:  | 07:00 às 09:30, 12:30 às 14:30, 15:00 às 18:30, 19:00 às 21:00
+Quinta:  | 07:00 às 12:00, 13:00 às 15:30, 18:00 às 21:30
+Sexta:   | 07:00 às 09:30, 13:00 às 15:30, 17:30 às 19:00
 
 Os horários dos estagiários:
 
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**08:30** | André    |          | André    | André    | André    
-**12:00** | Andressa | Andressa | Andressa | Andressa | Andressa
-**13:00** | Andre    | Andressa | André    | Andressa | Andressa
-**15:30** | Andressa | Andressa | André    | Andressa |      
-**17:30** | Andressa | Andressa | Andressa | Andressa |
-**19:30** | Andressa |          | Andressa |          |
-**21:30** |          |          |          |          |     
+**07:00** | André    | Andressa | André    | Andressa | André    
+**09:30** |          | Andressa |          | Andressa | André    
+**12:00** |          |          |          |          |          
+**12:30** | Andre    |          | André    |          |           
+**13:00** | Andre    | Andressa | André    | Andressa | Andressa       
+**14:30** | Andre    | Andressa |          | Andressa | Andressa
+**15:00** | Andre    | Andressa | André    | Andressa | Andressa
+**15:30** |          | Andressa | André    |          |
+**16:30** | André    | Andressa | André    |          |
+**17:30** | André    |          |          |          | Andressa
+**18:00** |          | Andressa | André    | Andressa | Andressa      
+**18:30** |          | Andressa | André    | Andressa | Andressa  
+**19:00** |          | Andressa | Andressa | Andressa |        
+**21:00** |          | Andressa |          | Andressa |          
+**21:30** |          |          |          |          |            
 
 
 
@@ -35,15 +43,14 @@ Os horário reservados:
  **15:30** | CM103 | CM105 |       | CM105 |  
  **17:30** |       |       |       |       |
  **19:30** | CM114 |       | CM114 |       | CM141
- **21:30** | CM116 |       | CM116 |       | CM141
+ **21:30** | CM117 |       | CM117 |       | CM141
 
 - CM103 - Laboratório de Matemática Aplicada - Professor Abel
 - CM105 - Métodos de Matemática Aplicada II - Professora Ailin
 - CM114 - Métodos Computacionais de Otimização - Professor Abel
-- CM116 - Tópicos de Matemática Aplicada I - Professores do Departamento
+- CM117 - Tópicos de Matemática Aplicada II - Professores do Departamento
 - CM141 - Tópicos de Matemática II - Professor Abel
 - EMA766 - Tópicos Especiais Equações Diferenciais - Professora Ailin
 
 
 Reservas esporádicas:
-- 01~03/08 - dia todo - Professor Abel
