@@ -25,9 +25,9 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 **15:00** | Andre    | Andressa | André    | Andressa | Andressa
 **15:30** |          | Andressa | André    |          |
 **16:30** | André    | Andressa | André    |          |
-**17:30** | André    |          | André    |          | Andressa
+**17:30** | André    |          |          |          | Andressa
 **18:00** |          | Andressa | André    | Andressa | Andressa      
-**18:30** |          | Andressa |          | Andressa | Andressa  
+**18:30** |          | Andressa | André    | Andressa | Andressa  
 **19:00** |          | Andressa | Andressa | Andressa |        
 **21:00** |          | Andressa |          | Andressa |          
 **21:30** |          |          |          |          |            
