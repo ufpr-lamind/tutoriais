@@ -5,21 +5,25 @@ são  :
 
 Dia      | Horário
 -------- | -------
-Segunda: | 07:00 às 09:30, 12:30 às 15:30, 16:30 às 18:00
+Segunda: | 08:30 às 11:30, 12:30 às 15:30, 16:30 às 18:00
 Terça:   | 07:00 às 12:00, 13:00 às 17:30, 18:00 às 21:30
-Quarta:  | 07:00 às 09:30, 12:30 às 14:30, 15:00 às 18:30, 19:00 às 21:00
+Quarta:  | 08:30 às 11:30, 12:30 às 14:30, 15:00 às 17:30, 18:00 às 21:00
 Quinta:  | 07:00 às 12:00, 13:00 às 15:30, 18:00 às 21:30
-Sexta:   | 07:00 às 09:30, 13:00 às 15:30, 17:30 às 19:00
+Sexta:   | 08:00 às 11:30, 12:30 às 15:30, 17:30 às 19:00
 
 Os horários dos estagiários:
 
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**07:00** | André    | Andressa | André    | Andressa | André    
-**09:30** |          | Andressa |          | Andressa | André    
+**07:00** |          | Andressa |          | Andressa |  
+**08:00** |          | Andressa |          | Andressa | André
+**08:30** | André    | Andressa | André    | Andressa | André    
+**09:30** | André    | Andressa | André    | Andressa | André
+**10:30** | André    | Andressa | André    | Andressa | André   
+**11:30** |          | Andressa |          | Andressa | André    
 **12:00** |          |          |          |          |          
-**12:30** | Andre    |          | André    |          |           
+**12:30** | Andre    |          | André    |          | André           
 **13:00** | Andre    | Andressa | André    | Andressa | Andressa       
 **14:30** | Andre    | Andressa |          | Andressa | Andressa
 **15:00** | Andre    | Andressa | André    | Andressa | Andressa
@@ -54,3 +58,4 @@ Os horário reservados:
 
 
 Reservas esporádicas:
+- 21/09 - 15:30 - Professora Ailin
