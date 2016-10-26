@@ -47,6 +47,11 @@ do
   ssh -t $ip_da_lista 'sudo apt-get update'
 done
 ````
+# Removendo um host key
+Ao acessar uma das máquinas remotamente pode-se deparar com o problema:
+`@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`
+Para resolve-lo será necessário remover a key antiga
+`ssh-keygen -f "/home/lamind-admin/.ssh/known_hosts" -R ENDEREÇO_IP`.
 
 ## Lista de Ips
 A lista completa dos Ips do Lamind pode ser encontrada em
