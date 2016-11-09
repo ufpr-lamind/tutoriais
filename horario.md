@@ -42,6 +42,7 @@ Os horário reservados:
 
 
  HH:MM     |  Seg  |  Ter  |  Qua  |  Qui  | Sex
+ **09:30** | CM144 |       | CM144 |       |
  --:       | :---  |  ---  |  ---  |  ---  | ---
  **13:30** |EMA766 |       |EMA766 |       | CM103
  **15:30** | CM103 | CM105 |       | CM105 |  
@@ -54,8 +55,8 @@ Os horário reservados:
 - CM114 - Métodos Computacionais de Otimização - Professor Abel
 - CM117 - Tópicos de Matemática Aplicada II - Professores do Departamento
 - CM141 - Tópicos de Matemática II - Professor Abel
+- CM144 - Tópicos de Análise II - Professor Roberto
 - EMA766 - Tópicos Especiais Equações Diferenciais - Professora Ailin
 
 
 Reservas esporádicas:
-- 21/09 - 15:30 - Professora Ailin
