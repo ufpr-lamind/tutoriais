@@ -1,17 +1,17 @@
 # Introdução
-o script Instalador Lamind foi criado com o objetivo de automatizar a instalação
+O script Instalador Lamind foi criado com o objetivo de automatizar a instalação
 de programas, bibliotecas e pacotes necessários para o funcionamento do Lamind.
-Atualmente o programa encotra-se na versao 1.0.
+Atualmente o programa encotra-se na versao 1.45.
+
 
 # Lista do conteúdo da última versão
 
 ## Programas
 - Atom
-    - ink
-    - julia-client
-    - language-julia
-    - language-matlab-octave
-    - latex-completions
+    - Ink
+    - Julia-client
+    - Language-julia
+    - Language-matlab-octave
 - Build-esssential
 - CMake
 - Curl
@@ -22,8 +22,11 @@ Atualmente o programa encotra-se na versao 1.0.
 - Geogebra
 - GFortran
 - Git
-- Julia 4.3
+- Julia
+  - 0.4.6
+  - 0.5.0
 - Jupyter
+- Latex-completions
 - Make
 - Nodejs
 - Octave
@@ -44,6 +47,7 @@ Atualmente o programa encotra-se na versao 1.0.
 - Ssh
 - Subversion
 - Texlive-latex-extra
+- texlive-full
 - Unrar
 - Vim
 
@@ -58,8 +62,12 @@ Atualmente o programa encotra-se na versao 1.0.
 - libgsl0-dev (CUTEst)
 - urllib3[secure] (Julia via pip)
 
-##Chaves
+## Chaves
 - E084DAB9  (R e RStudio)
+
+## Atalhos
+  - julia-2e358ce975/bin/julia -> julia-0.4.6
+  - julia-3c9d75391c/bin/julia -> julia
 
 # Links para download
  - [Instalador Lamind](http://ufpr-lamind.github.io/files/Instalador-Lamind.sh)
