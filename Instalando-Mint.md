@@ -29,7 +29,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ````
   - Vá em `Users and Groups`
-  - Digite o password
+  - Digite o password                                                                          
   - Crie um novo usuário (standard) clicando em `add`
     - Full name: `Aluno`
     - Username: `lamind`
@@ -41,17 +41,33 @@ sudo apt-get upgrade
     - Marque `Enable Automatic Login`
     - Selecione `lamind` em `User:`
 
+
 ## Após a instalação
 
 Depois que a instalação e a atualização estiverem concluídas, alguns
-softwares devem ser instalados:
+softwares devem ser instalados. Foi desenvolvido o script `Instalador-Lamind.sh`
+com a função de instalar a maior parte dos softwares, pacotes e bibliotecas
+necessárias. Tal script pode ser baixado pelo
+[site do Lamind](http://ufpr-lamind.github.io/files/Instalador-Lamind.sh) e será
+necessário alterar a permissão de uso dele através do comando
+````bash
+  chmod a+x *dir*/Instalador-Lamind.sh
+````
+onde `*dir*` é o diretório onde foi baixado o script. Para executá-lo utilize
+````bash
+./*dir*/Instalador-Lamind.sh
+````
 
-  - Baixe o
-[install-programas.sh](https://ufpr-lamind.github.io/files/install-programas.sh)
- e o [julia_up.jl](https://ufpr-lamind.github.io/files/julia_up.jl)
-  - Mova-os para o `Desktop`
-  - Abra o terminal e digite
-  ````bash
-  sudo chmod a+x Desktop/install-programas.sh
-  ./Desktop/install-programas.sh
-  ````
+O script irá baixar e mover o script `Launcher_Lamind.sh` para o usuário comum.
+Para mais informações acesse [o post no site](http://ufpr-lamind.github.io/instalacao/2016/11/28/Launcher_Lamind-e-Files_Lamind.html)
+Ao executa-lo, será baixo diversos arquivos dentre eles o `Julia-Packagjs.jl`.
+Com os softwares instalados, é hora de instalar os pacotes no julia, o que deve
+ser feita em todas as versões do julia instaladas.**OBS** Durante a execução do
+`Instalador-Lamind` serão criados os atalhos julia e julia-0.4.6 que serão
+usados para a escolha da versão do julia (julia para a versão 0.5.0 e
+julia-0.4.6 para a versão 0.4.6). Pode-se usar os comandos para a instalação
+dos pacotes
+````bash
+julia Files_Lamind/Julia-Packages.jl
+julia-0.4.6 Files_Lamind/Julia-Packages.jl
+````  
