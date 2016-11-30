@@ -1,7 +1,7 @@
 # Introdução
 O script Instalador Lamind foi criado com o objetivo de automatizar a instalação
 de programas, bibliotecas e pacotes necessários para o funcionamento do Lamind.
-Atualmente o programa encotra-se na versao 1.45.
+Atualmente o programa encotra-se na versao 1.46.
 
 
 # Lista do conteúdo da última versão
