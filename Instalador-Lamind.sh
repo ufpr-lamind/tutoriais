@@ -1,26 +1,28 @@
 #!/bin/sh
-#Version 1.45 nov/30/16
+#Version 1.46 nov/30/16
 #------
 #Instalaçao feita no usuário administrador
 
 
 # Instalaçao de Chaves
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9 #chaves para o R e RStudio
 
 # Inclusão de repositorios
-sudo add-apt-repository ppa:webupd8team/atom -y
-sudo add-apt-repository "deb http://star-www.st-andrews.ac.uk/cran/bin/linux/ubuntu trusty/" -y
-sudo add-apt-repository ppa:brightbox/ruby-ng-experimental -y
+sudo add-apt-repository ppa:webupd8team/atom -y #rep para o Atom
+sudo add-apt-repository "deb http://star-www.st-andrews.ac.uk/cran/bin/linux/ubuntu trusty/" -y #rep para o R e RStudio
+sudo add-apt-repository ppa:brightbox/ruby-ng-experimental -y #rep para o Ruby
 
+# Atualização
 sudo apt-get update
+sudo apt-get upgrade -y
 echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
 cd $HOME
-sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.4/julia-0.4.6-linux-x86_64.tar.gz
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.5/julia-0.5.0-linux-x86_64.tar.gz
-sudo wget https://ufpr-lamind.github.io/files/Launcher_Lamind.sh
+sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
+sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.4/julia-0.4.6-linux-x86_64.tar.gz #Julia 0.4.6
+sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.5/julia-0.5.0-linux-x86_64.tar.gz #Julia 0.4.6
+sudo wget https://ufpr-lamind.github.io/files/Launcher_Lamind.sh #Launcher_Lamind
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
@@ -43,15 +45,16 @@ echo  "\n\n Instalação Secundaria Completa \n\n"
 
 
 ## julia
-tar -vzxf julia-0.4.6-linux-x86_64.tar.gz
-tar -vzxf julia-0.5.0-linux-x86_64.tar.gz
-ver_old=julia-2e358ce975
-ver_current=julia-3c9d75391c
+# ao alterar a versao baixada sera necessário alterar a parte após julia-
+tar -vzxf julia-0.4.6-linux-x86_64.tar.gz #extração
+tar -vzxf julia-0.5.0-linux-x86_64.tar.gz #extração
+ver_old=julia-2e358ce975 #atribuição de variavel
+ver_current=julia-3c9d75391c #atribuição de variavel
 cd $ver_current/bin
-sudo ln -s -f $PWD/julia /usr/local/bin/
+sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.5.0
 cd $HOME
 cd $ver_old/bin
-sudo ln -s -f $PWD/julia /usr/local/bin/julia-0.4.6
+sudo ln -s -f $PWD/julia /usr/local/bin/julia-0.4.6 #cria o atalho julia para o 0.4.6
 
 sudo pip install --upgrade pip
 sudo pip install jupyter
