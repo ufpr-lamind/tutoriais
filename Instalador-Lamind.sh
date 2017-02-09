@@ -18,9 +18,9 @@ sudo apt-get update
 echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
-sudo wget https://download1.rstudio.org/rstudio-0.99.489-amd64.deb
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.4/julia-0.4.3-linux-x86_64.tar.gz
-tar -vzxf julia-0.4.3-linux-x86_64.tar.gz
+sudo wget https://download1.rstudio.org/rstudio-1.0.136-amd64.deb
+sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.5/julia-0.5.0-linux-x86_64.tar.gz
+tar -vzxf julia-0.5.0-linux-x86_64.tar.gz
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
@@ -40,7 +40,7 @@ latex-completions
 echo  "\n\n Atom plugins Completos \n\n"
 
 #julia
-cd julia-a2f713dea5/bin/
+cd julia-3c9d75391c/bin/
 sudo ln -s -f $PWD/julia /usr/local/bin/
 sudo pip install --upgrade pip
 sudo pip install jupyter
@@ -48,6 +48,6 @@ pip install urllib3[secure]
 echo  "\n\n Julia Instalado \n\n"
 
 #Remove arquivos de isntalação
-sudo rm julia-0.4.3-linux-x86_64.tar.gz
-sudo rm rstudio-0.99.489-amd64.deb
+sudo rm julia-0.5.0-linux-x86_64.tar.gz
+sudo rm rstudio-1.0.136-amd64.deb
 sudo apt-get autoremove
