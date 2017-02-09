@@ -19,8 +19,8 @@ echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
 sudo wget https://download1.rstudio.org/rstudio-0.99.489-amd64.deb
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.4/julia-0.4.3-linux-x86_64.tar.gz
-tar -vzxf julia-0.4.3-linux-x86_64.tar.gz
+sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.5/julia-0.5.0-linux-x86_64.tar.gz
+tar -vzxf julia-0.5.0-linux-x86_64.tar.gz
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
