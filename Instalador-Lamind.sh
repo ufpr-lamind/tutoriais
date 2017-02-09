@@ -24,7 +24,7 @@ tar -vzxf julia-0.5.0-linux-x86_64.tar.gz
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
-sudo apt-get install libjpeg62 libgsl0ldbl libgsl0-dev
+sudo apt-get install libjpeg62
 echo  "\n\n Biblioteca Completa \n\n"
 
 # Instalação principal
