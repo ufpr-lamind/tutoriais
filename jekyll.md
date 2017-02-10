@@ -97,12 +97,26 @@ git add .
 git commit -am "Update pagina"
 git remote add origin
 "https://seuusuario@github.com/seuusuario/seuusuario.github.io"
+git remote add site https://github.com/ufpr-lamind/ufpr-lamind.github.io
 git push -u origin master
 ````
 **Observação** Caso erre `git remote set-url origin
 "https://novoseuusuario@github.com/novoseuusuario/novoseuusuario.github.io"`.
+
+## Atualizando arquivos
+Como é utilizado o git é preciso atualizar os dados locais antes de alterá-los,
+o que pode ser feito pelso comandos
+````bash
+git fetch --all
+git merge site/master
+git push
+````
+Estando a página no ar, ao se alterar arquivos é necessario atualizar os dados
+remotos. Para tal, utilize os comandos do git.
+
+
 ## Acessando a página
-Para acessar a página basta acesser o endereço `seuusuario.github.io`.
+Para acessar a página basta acessar o endereço `seuusuario.github.io`.
 
 ## Informações adicionais
 [jekyll](https://jekyllrb.com/)
