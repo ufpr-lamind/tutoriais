@@ -18,15 +18,13 @@ sudo apt-get upgrade -y
 echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
-cd $HOME
 sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.4/julia-0.4.6-linux-x86_64.tar.gz #Julia 0.4.6
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.5/julia-0.5.0-linux-x86_64.tar.gz #Julia 0.4.6
+sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.5/julia-0.5.0-linux-x86_64.tar.gz
 sudo wget https://ufpr-lamind.github.io/files/Launcher_Lamind.sh #Launcher_Lamind
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
-sudo apt-get install libjpeg62 libgsl0ldbl libgsl0-dev
+sudo apt-get install libjpeg62
 echo  "\n\n Biblioteca Completa \n\n"
 
 # Instalação principal
@@ -46,15 +44,11 @@ echo  "\n\n Instalação Secundaria Completa \n\n"
 
 ## julia
 # ao alterar a versao baixada sera necessário alterar a parte após julia-
-tar -vzxf julia-0.4.6-linux-x86_64.tar.gz #extração
 tar -vzxf julia-0.5.0-linux-x86_64.tar.gz #extração
-ver_old=julia-2e358ce975 #atribuição de variavel
 ver_current=julia-3c9d75391c #atribuição de variavel
 cd $ver_current/bin
 sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.5.0
 cd $HOME
-cd $ver_old/bin
-sudo ln -s -f $PWD/julia /usr/local/bin/julia-0.4.6 #cria o atalho julia para o 0.4.6
 
 sudo pip install --upgrade pip
 sudo pip install jupyter
@@ -67,7 +61,6 @@ sudo chmod a+x /home/lamind/Launcher_Lamind.sh
 echo  "\n\n Launcher_Lamind Instalado \n\n"
 
 #Remove arquivos de instalação
-sudo rm ~/julia-0.4.6-linux-x86_64.tar.gz
 sudo rm ~/julia-0.5.0-linux-x86_64.tar.gz
 sudo rm ~/rstudio-0.99.903-amd64.deb
 sudo apt-get autoremove
