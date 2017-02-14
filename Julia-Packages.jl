@@ -1,4 +1,4 @@
-#Versao2.3
+#Versao2.4
 # No Julia no usuário comum
 ##Misc
 Pkg.clone("git://github.com/kbarbary/TimeIt.jl.git")
@@ -6,8 +6,6 @@ Pkg.update()
 Pkg.add("Gadfly")
 Pkg.add("IJulia")
 Pkg.build("IJulia")
-Pkg.clone("https://github.com/optimizers/CUTEst.jl")
-Pkg.checkout("CUTEst", "develop")
 Pkg.add("Atom")
 Pkg.add("Winston")
 ##Plots
@@ -27,3 +25,5 @@ Pkg.add("JuMP")
 Pkg.add("Ipopt")
 Pkg.add("Cbc")
 Pkg.add("Clp")
+Pkg.add("CUTEst")
+Pkg.add("Interact")
