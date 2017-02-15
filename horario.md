@@ -23,7 +23,7 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 **16:00** | Andressa | Andressa |  Wilian  | Andressa |  Wilian
 **17:00** | Andressa | Andressa |  Wilian  | Andressa |  Wilian
 **18:00** | Andressa | Andressa |  Wilian  | Andressa |  Wilian
-**19:00** | Andressa | Andressa |  Wilian  | Andressa |  Wilian
+
       
 
 
