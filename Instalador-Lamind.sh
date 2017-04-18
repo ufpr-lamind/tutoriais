@@ -1,5 +1,5 @@
 #!/bin/sh
-#Version 1.46 nov/30/16
+#Version 1.47 abr/18/17
 #------
 #Instalaçao feita no usuário administrador
 
@@ -28,7 +28,7 @@ sudo apt-get install libjpeg62
 echo  "\n\n Biblioteca Completa \n\n"
 
 # Instalação principal
-sudo apt-get install atom build-essential cmake curl ipython3-notebook g++ gcc \
+sudo apt-get install atom build-essential cmake curl ipython3-notebook g++ gcc maxima \
 geany gems geogebra gfortran git make nodejs octave python3-matplotlib \
 python3-pip  python3-yaml python-dev python-pip python-setuptools \
 r-base ruby2.2 ruby2.2-dev ssh subversion texlive-latex-extra texlive-full unrar vim -y
