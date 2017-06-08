@@ -44,3 +44,7 @@ Os horário reservados:
 
 
 Reservas esporádicas:
+
+26/6/2017  das  8h30 às 11h30 - Professora Paula Rogéria Lima Couto 
+27/6/2017  das  8h30 às 11h30 - Professora Paula Rogéria Lima Couto 
+28/6/2017  das  8h30 às 11h30 - Professora Paula Rogéria Lima Couto
