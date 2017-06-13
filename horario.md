@@ -45,6 +45,7 @@ Os horário reservados:
 
 Reservas esporádicas:
 
+19/6/2017  das  19h  às 21h30 - Professor  Elias Alfredo Gudiño Rojas 
 26/6/2017  das  8h30 às 11h30 - Professora Paula Rogéria Lima Couto 
 27/6/2017  das  8h30 às 11h30 - Professora Paula Rogéria Lima Couto 
 28/6/2017  das  8h30 às 11h30 - Professora Paula Rogéria Lima Couto
