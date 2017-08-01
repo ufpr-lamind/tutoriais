@@ -6,7 +6,7 @@ Segunda: | 09:00 às 20:30
 Terça:   | 09:00 às 20:30
 Quarta:  | 09:00 às 20:30
 Quinta:  | 10:00 às 20:30
-Sexta:   | 09:00 às 20:30
+Sexta:   | 09:00 às 20:00
 
 Os horários dos estagiários:
 
@@ -14,7 +14,7 @@ Os horários dos estagiários:
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
 **09:00 - 09:30** |  Wilian  |  Wilian  |  Wilian  |     X    |  Wilian   
-**09:30 - 10:00** |  Wilian  |  Wilian  |  Wilian  |     X   |  Wilian    
+**09:30 - 10:00** |  Wilian  |  Wilian  |  Wilian  |     X    |  Wilian    
 **10:00 - 10:30** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian     
 **10:30 - 11:00** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian                     
 **11:00 - 11:30** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian           
