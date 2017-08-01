@@ -30,10 +30,10 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 **16:00 - 16:30** | Andressa |    X     |    X     |    X     |  Wilian  
 **16:30 - 17:00** | Andressa |    X     |    X     |    X     |  Wilian
 **17:00 - 17:30** | Andressa |    X     |    X     |    X     |  Wilian 
-**17:30 - 18:00** |  Wilian  | Andressa | Andressa | Andressa | Andressa  
-**18:00 - 18:30** |  Wilian  | Andressa | Andressa | Andressa | Andressa  
-**18:30 - 19:00** |  Wilian  | Andressa | Andressa | Andressa | Andressa  
-**19:00 - 19:30** |  Wilian  | Andressa | Andressa | Andressa | Andressa  
+**17:30 - 18:00** |  Wilian  | Andressa |    X     | Andressa | Andressa  
+**18:00 - 18:30** |  Wilian  | Andressa |    X     | Andressa | Andressa  
+**18:30 - 19:00** |  Wilian  | Andressa |    X     | Andressa | Andressa  
+**19:00 - 19:30** |  Wilian  | Andressa |    X     | Andressa | Andressa  
 **19:30 - 20:00** | Andressa | Andressa | Andressa | Andressa | Andressa  
 **20:00 - 20:30** | Andressa | Andressa | Andressa | Andressa |    x  
 
@@ -44,11 +44,11 @@ Os horário reservados:
   --:      | :---  |  ---  |  ---  |  ---  | ---
  **13:30** |       |       |       |       | 
  **15:30** | CM103 |       |       |       |  
- **17:30** |       |       |       | cm103 | 
+ **17:30** |       |       |       | CM103 | 
  **19:30** |       |       |       |       | 
  **21:30** |       |       |       |       | 
 
-CM103 -  Laboratório de Matemática Aplicada Professor Abel
+CM103 -  Laboratório de Matemática Aplicada - Professor Abel
 
 Reservas esporádicas:
-
+16/08 reserva projeto extensão UFPR - Professor Carlos período da manhã
