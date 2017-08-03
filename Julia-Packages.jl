@@ -1,21 +1,17 @@
-#Versao2.4
+#Versao2.5
 # No Julia no usuário comum
 ##Misc
-Pkg.clone("git://github.com/kbarbary/TimeIt.jl.git")
 Pkg.update()
-Pkg.add("Gadfly")
 Pkg.add("IJulia")
 Pkg.build("IJulia")
 Pkg.add("Atom")
-Pkg.add("Winston")
 ##Plots
 Pkg.add("Plots")
 Pkg.add("GR")
-Pkg.add("PyPlot")
-Pkg.build("PyCall")
-Pkg.checkout("Plots", "dev")
-Pkg.add("Immerse")
-Pkg.add("UnicodePlots")
+withenv("PYTHON" => "") do
+    Pkg.add("PyPlot")
+    Pkg.build("PyPlot")
+end
 Pkg.add("Qwt")
 Pkg.add("RDatasets")
 Pkg.add("Images")
@@ -26,4 +22,4 @@ Pkg.add("Ipopt")
 Pkg.add("Cbc")
 Pkg.add("Clp")
 Pkg.add("CUTEst")
-Pkg.add("Interact")
+
