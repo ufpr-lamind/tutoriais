@@ -51,5 +51,7 @@ Os horário reservados:
 CM103 -  Laboratório de Matemática Aplicada - Professor Abel
 
 Reservas esporádicas:
-10/08 reserva para a disciplina CM093 - Professora Ailin - Horário 15h:30min às 17h:30min
+
+10/08 reserva para a disciplina CM093 - Professora Ailin - Horário 15h:30min às 17h:30min 
+
 16/08 reserva projeto extensão UFPR - Professor Carlos período da manhã
