@@ -6,20 +6,14 @@ Julia necessários para a utilização do Lamind.
   - Atom
   - Cbc
   - Clp
-  - CUTEst
-  - Gadfly
+  - CUTEst 
   - GR
   - IJulia
   - ImageMagick
   - Images
-  - Immerse
   - Ipopt
-  - JuMP
+  - JuMP 
   - Plots
-  - PyCall
   - PyPlot
   - Qwt
-  - Rdatasets
-  - TimeIt
-  - UnicodePlots
-  - Winston
+  - Rdatasets 
