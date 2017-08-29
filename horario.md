@@ -2,11 +2,11 @@
 
 Dia      | Horário
 -------- | -------
-Segunda: | 09:00 às 20:30
-Terça:   | 09:00 às 20:30
-Quarta:  | 09:00 às 20:30
-Quinta:  | 10:00 às 20:30
-Sexta:   | 09:00 às 20:00
+Segunda: | 09:00 às 20:00
+Terça:   | 09:00 às 19:30
+Quarta:  | 09:00 às 19:30
+Quinta:  | 10:00 às 19:30
+Sexta:   | 09:00 às 19:30
 
 Os horários dos estagiários:
 
@@ -26,16 +26,15 @@ HH:MM | Seg | Ter | Qua | Qui | Sex
 **14:00 - 14:30** | Andressa | Andressa | Andressa | Andressa | Andressa 
 **14:30 - 15:00** | Andressa | Andressa | Andressa | Andressa | Andressa   
 **15:00 - 15:30** | Andressa | Andressa | Andressa | Andressa | Andressa  
-**15:30 - 16:00** | Andressa |    X     |    X     |    X     |  Wilian   
-**16:00 - 16:30** | Andressa |    X     |    X     |    X     |  Wilian  
-**16:30 - 17:00** | Andressa |    X     |    X     |    X     |  Wilian
-**17:00 - 17:30** | Andressa |    X     |    X     |    X     |  Wilian 
+**15:30 - 16:00** | Andressa | Andressa |    X     | Andressa |  Wilian   
+**16:00 - 16:30** | Andressa | Andressa |    X     | Andressa |  Wilian  
+**16:30 - 17:00** | Andressa | Andressa |    X     | Andressa |  Wilian
+**17:00 - 17:30** | Andressa | Andressa |    X     | Andressa |  Wilian 
 **17:30 - 18:00** |  Wilian  | Andressa |    X     | Andressa | Andressa  
 **18:00 - 18:30** |  Wilian  | Andressa |    X     | Andressa | Andressa  
 **18:30 - 19:00** |  Wilian  | Andressa |    X     | Andressa | Andressa  
 **19:00 - 19:30** |  Wilian  | Andressa |    X     | Andressa | Andressa  
-**19:30 - 20:00** | Andressa | Andressa | Andressa | Andressa | Andressa  
-**20:00 - 20:30** | Andressa | Andressa | Andressa | Andressa |    x  
+**19:30 - 20:00** | Andressa |    X     |    X     |     X    |    X  
 
 Os horário reservados:
 
@@ -43,12 +42,13 @@ Os horário reservados:
  HH:MM     |  Seg  |  Ter  |  Qua  |  Qui  | Sex
   --:      | :---  |  ---  |  ---  |  ---  | ---
  **13:30** |       |       |       |       | 
- **15:30** | CM103 |       |       |       |  
+ **15:30** | CM103 | CM093 |       | CM093 |  
  **17:30** |       |       |       | CM103 | 
  **19:30** |       |       |       |       | 
  **21:30** |       |       |       |       | 
 
 CM103 -  Laboratório de Matemática Aplicada - Professor Abel
+CM093 - Tópicos em Fisíca - Matemática I - Professora Ailin
 
 Reservas esporádicas:
 
@@ -57,3 +57,7 @@ Reservas esporádicas:
 15/08 reserva para a disciplina CM093 - Professora Ailin - Horário 15h:30min às 17h:30min 
 
 16/08 reserva projeto extensão UFPR - Professor Carlos período da manhã
+
+30/08 reserva para a disciplina CM 121 - Professora Ailin - Horário das 13h:30min às 15h:30min.
+
+06/09 reserva projeto extensão UFPR - Professor Carlos Henrique período da manhã
