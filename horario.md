@@ -61,3 +61,8 @@ Reservas esporádicas:
 30/08 reserva para a disciplina CM 121 - Professora Ailin - Horário das 13h:30min às 15h:30min.
 
 06/09 reserva projeto extensão UFPR - Professor Carlos Henrique período da manhã
+
+04/10 reserva projeto extensão UFPR - Professor Carlos período da manhã
+
+18/10 reserva projeto extensão UFPR - Professor Carlos período da manhã
+
