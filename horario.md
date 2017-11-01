@@ -66,3 +66,5 @@ Reservas esporádicas:
 
 18/10 reserva projeto extensão UFPR - Professor Carlos período da manhã
 
+08/11 reserva projeto extensão UFPR - Professor Carlos período da manhã
+
