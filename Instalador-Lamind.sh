@@ -50,8 +50,8 @@ cd $ver_current/bin
 sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.5.0
 cd $HOME
 
-sudo pip install --upgrade pip
-sudo pip install jupyter
+sudo -H pip install --upgrade pip
+sudo -H pip install jupyter
 pip install urllib3[secure]
 echo  "\n\n Julia Instalado \n\n"
 
