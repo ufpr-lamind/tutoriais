@@ -52,7 +52,7 @@ cd $HOME
 
 sudo -H pip install --upgrade pip
 sudo -H pip install jupyter
-sudo pip install urllib3[secure]
+sudo -H pip install urllib3[secure]
 echo  "\n\n Julia Instalado \n\n"
 
 ## Launcher_Lamind
