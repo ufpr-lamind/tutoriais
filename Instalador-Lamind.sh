@@ -20,7 +20,7 @@ echo "\n\n Update Completo \n\n"
 # Download de Arquivos
 sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
 sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.6/julia-0.6.0-linux-x86_64.tar.gz
-sudo wget https://ufpr-lamind.github.io/files/Launcher_Lamind.sh #Launcher_Lamind
+sudo wget https://raw.githubusercontent.com/ufpr-lamind/ufpr-lamind.github.io/master/files/Launcher_Lamind.sh #Launcher_Lamind
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
