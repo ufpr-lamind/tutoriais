@@ -36,7 +36,7 @@ echo  "\n\n Instalação Principal Completa \n\n"
 
 # Instalações secundarias
 ## Atom plugins
-sudo apm install ink julia-client  language-julia language-matlab-octave \
+sudo apm install ink julia-client language-julia language-matlab-octave \
 latex-completions
 sudo gem install jekyll
 echo  "\n\n Instalação Secundaria Completa \n\n"
