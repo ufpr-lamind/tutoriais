@@ -19,7 +19,7 @@ echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
 sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
-sudo wget https://julialang.s3.amazonaws.com/bin/linux/x64/0.6/julia-0.6.0-linux-x86_64.tar.gz
+sudo wget https://julialang-s3.julialang.org/bin/linux/x64/0.6/julia-0.6.2-linux-x86_64.tar.gz
 sudo wget https://raw.githubusercontent.com/ufpr-lamind/ufpr-lamind.github.io/master/files/Launcher_Lamind.sh #Launcher_Lamind
 echo  "\n\n Donwload Completo \n\n"
 
@@ -44,10 +44,10 @@ echo  "\n\n Instalação Secundaria Completa \n\n"
 
 ## julia
 # ao alterar a versao baixada sera necessário alterar a parte após julia-
-tar -vzxf julia-0.6.0-linux-x86_64.tar.gz #extração
-ver_current=julia-3c9d75391c #atribuição de variavel
+tar -vzxf julia-0.6.2-linux-x86_64.tar.gz #extração
+ver_current=julia-903644385b #atribuição de variavel
 cd $ver_current/bin
-sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.6.0
+sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.6.2
 cd $HOME
 
 sudo -H pip install --upgrade pip
@@ -61,7 +61,7 @@ sudo chmod a+x /home/lamind/Launcher_Lamind.sh
 echo  "\n\n Launcher_Lamind Instalado \n\n"
 
 #Remove arquivos de instalação
-sudo rm ~/julia-0.6.0-linux-x86_64.tar.gz
+sudo rm ~/julia-0.6.2-linux-x86_64.tar.gz
 sudo rm ~/rstudio-0.99.903-amd64.deb
 sudo apt-get autoremove
 echo  "\n\n Arquivos de instalação removidos \n\n"
