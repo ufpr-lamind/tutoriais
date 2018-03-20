@@ -45,8 +45,7 @@ echo  "\n\n Instalação Secundaria Completa \n\n"
 ## julia
 # ao alterar a versao baixada sera necessário alterar a parte após julia-
 tar -vzxf julia-0.6.2-linux-x86_64.tar.gz #extração
-ver_current=julia-903644385b #atribuição de variavel
-cd $ver_current/bin
+cd julia-d386e40c17/bin
 sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.6.2
 cd $HOME
 
