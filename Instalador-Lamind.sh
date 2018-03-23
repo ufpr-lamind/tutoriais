@@ -28,7 +28,7 @@ sudo apt-get install libjpeg62
 echo  "\n\n Biblioteca Completa \n\n"
 
 # Instalação principal
-sudo apt-get install atom build-essential cmake curl fpc ipython3-notebook g++ gcc maxima \
+sudo apt-get install atom build-essential cmake curl fpc ink ipython3-notebook g++ gcc maxima \
 geany gems geogebra gfortran git make nodejs octave python3-matplotlib \
 python3-pip  python3-yaml python-dev python-pip python-setuptools \
 r-base ruby-dev ruby2.2 ruby2.3 ssh subversion texlive-latex-extra texlive-full unrar vim -y
@@ -36,7 +36,7 @@ echo  "\n\n Instalação Principal Completa \n\n"
 
 # Instalações secundarias
 ## Atom plugins
-sudo apm install ink julia-client language-julia language-matlab-octave \
+sudo apm install julia-client language-julia language-matlab-octave \
 latex-completions
 sudo gem install jekyll
 echo  "\n\n Instalação Secundaria Completa \n\n"
