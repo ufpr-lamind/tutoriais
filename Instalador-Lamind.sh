@@ -1,5 +1,5 @@
 #!/bin/sh
-#Version 1.48 maio/10/17
+#Version 1.5 março/26/18
 #------
 #Instalaçao feita no usuário administrador
 
@@ -20,7 +20,7 @@ echo "\n\n Update Completo \n\n"
 # Download de Arquivos
 sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
 sudo wget https://julialang-s3.julialang.org/bin/linux/x64/0.6/julia-0.6.2-linux-x86_64.tar.gz
-sudo wget https://raw.githubusercontent.com/ufpr-lamind/tutoriais/master/Launcher_Lamind.sh #Launcher_Lamind
+sudo wget https://raw.githubusercontent.com/ufpr-lamind/tutoriais/master/Julia-Packages.jl #Julia packages
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
@@ -28,7 +28,7 @@ sudo apt-get install libjpeg62
 echo  "\n\n Biblioteca Completa \n\n"
 
 # Instalação principal
-sudo apt-get install atom build-essential cmake curl fpc ipython3-notebook g++ gcc maxima \
+sudo apt-get install atom build-essential cmake curl fpc ink ipython3-notebook g++ gcc maxima \
 geany gems geogebra gfortran git make nodejs octave python3-matplotlib \
 python3-pip  python3-yaml python-dev python-pip python-setuptools \
 r-base ruby-dev ruby2.2 ruby2.3 ssh subversion texlive-latex-extra texlive-full unrar vim -y
@@ -36,7 +36,7 @@ echo  "\n\n Instalação Principal Completa \n\n"
 
 # Instalações secundarias
 ## Atom plugins
-sudo apm install ink julia-client language-julia language-matlab-octave \
+sudo apm install julia-client language-julia language-matlab-octave \
 latex-completions
 sudo gem install jekyll
 echo  "\n\n Instalação Secundaria Completa \n\n"
@@ -54,10 +54,9 @@ sudo -H pip install jupyter
 sudo -H pip install urllib3[secure]
 echo  "\n\n Julia Instalado \n\n"
 
-## Launcher_Lamind
-sudo mv ~/Launcher_Lamind.sh /home/lamind/Launcher_Lamind.sh
-sudo chmod a+x /home/lamind/Launcher_Lamind.sh
-echo  "\n\n Launcher_Lamind Instalado \n\n"
+#Julia packages
+sudo chmod a+x Julia-Packages.jl
+# os pacotes devem ser instalados na interface Julia
 
 #Remove arquivos de instalação
 sudo rm ~/julia-0.6.2-linux-x86_64.tar.gz
