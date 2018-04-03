@@ -1,0 +1,12 @@
+        install.packages('devtools')
+        library(devtools)
+        slam_url <- "https://cran.r-project.org/src/contrib/Archive/slam/slam_0.1-37.tar.gz"
+        install_url(slam_url)
+        
+install.packages("tm", dependencies=TRUE)
+install.packages("qdap", dependencies=TRUE)
+install.packages("SnowballC", dependencies=TRUE)
+install.packages("wordcloud", dependencies=TRUE)
+install.packages("parallel", dependencies=TRUE)
+install.packages("mlr", dependencies=TRUE)
+install.packages("tictoc", dependencies=TRUE)
