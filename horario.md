@@ -26,29 +26,10 @@ Os horário reservados:
  HH:MM     |  Seg  |  Ter  |  Qua  |  Qui  | Sex
   --:      | :---  |  ---  |  ---  |  ---  | ---
  **13:30** |       |       |       |       | 
- **15:30** | CM103 | CM093 |       | CM093 |  
- **17:30** |       |       |       | CM103 | 
+ **15:30** |       | CM106 |       | CM106 |  
+ **17:30** |       |       |       |       | 
  **19:30** |       |       |       |       | 
  **21:30** |       |       |       |       | 
 
-CM103 -  Laboratório de Matemática Aplicada - Professor Abel
-CM093 - Tópicos em Fisíca - Matemática I - Professora Ailin
-
-Reservas esporádicas:
-
-10/08 reserva para a disciplina CM093 - Professora Ailin - Horário 15h:30min às 17h:30min 
-
-15/08 reserva para a disciplina CM093 - Professora Ailin - Horário 15h:30min às 17h:30min 
-
-16/08 reserva projeto extensão UFPR - Professor Carlos período da manhã
-
-30/08 reserva para a disciplina CM 121 - Professora Ailin - Horário das 13h:30min às 15h:30min.
-
-06/09 reserva projeto extensão UFPR - Professor Carlos Henrique período da manhã
-
-04/10 reserva projeto extensão UFPR - Professor Carlos período da manhã
-
-18/10 reserva projeto extensão UFPR - Professor Carlos período da manhã
-
-08/11 reserva projeto extensão UFPR - Professor Carlos período da manhã
+CM106 - Otimização I - Professor Abel
 
