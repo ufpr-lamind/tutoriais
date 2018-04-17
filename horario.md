@@ -2,39 +2,23 @@
 
 Dia      | Horário
 -------- | -------
-Segunda: | 09:00 às 20:00
-Terça:   | 09:00 às 19:30
-Quarta:  | 09:00 às 19:30
-Quinta:  | 10:00 às 19:30
-Sexta:   | 09:00 às 19:30
+Segunda: | 07:30 às 21:00
+Terça:   | 07:30 às 14:15 e 15:30 às 21:30
+Quarta:  | 07:30 às 21:00
+Quinta:  | 07:30 às 14:15 e 15:30 às 21:30
+Sexta:   | 07:30 às 21:00
 
 Os horários dos estagiários:
 
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**09:00 - 09:30** |  Wilian  |  Wilian  |  Wilian  |     X    |  Wilian   
-**09:30 - 10:00** |  Wilian  |  Wilian  |  Wilian  |     X    |  Wilian    
-**10:00 - 10:30** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian     
-**10:30 - 11:00** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian                     
-**11:00 - 11:30** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian           
-**11:30 - 12:00** |  Wilian  |  Wilian  |  Wilian  |  Wilian  |  Wilian    
-**12:00 - 12:30** | Andressa | Andressa | Andressa | Andressa | Andressa 
-**12:30 - 13:00** | Andressa | Andressa | Andressa | Andressa | Andressa 
-**13:00 - 13:30** | Andressa | Andressa | Andressa | Andressa | Andressa 
-**13:30 - 14:00** | Andressa | Andressa | Andressa | Andressa | Andressa 
-**14:00 - 14:30** | Andressa | Andressa | Andressa | Andressa | Andressa 
-**14:30 - 15:00** | Andressa | Andressa | Andressa | Andressa | Andressa   
-**15:00 - 15:30** | Andressa | Andressa | Andressa | Andressa | Andressa  
-**15:30 - 16:00** | Andressa | Andressa |    X     | Andressa |  Wilian   
-**16:00 - 16:30** | Andressa | Andressa |    X     | Andressa |  Wilian  
-**16:30 - 17:00** | Andressa | Andressa |    X     | Andressa |  Wilian
-**17:00 - 17:30** | Andressa | Andressa |    X     | Andressa |  Wilian 
-**17:30 - 18:00** |  Wilian  | Andressa |    X     | Andressa | Andressa  
-**18:00 - 18:30** |  Wilian  | Andressa |    X     | Andressa | Andressa  
-**18:30 - 19:00** |  Wilian  | Andressa |    X     | Andressa | Andressa  
-**19:00 - 19:30** |  Wilian  | Andressa |    X     | Andressa | Andressa  
-**19:30 - 20:00** | Andressa |    X     |    X     |     X    |    X  
+**07:30 - 11:30** |  Filipe  |  Filipe/Julio  |  Filipe  | Filipe/Julio | Filipe  
+**11:30 - 12:30** | Filipe | Julio | Filipe | Julio | Filipe
+**12:30 - 14:00** | Julio | Filipe | Julio | Filipe | Julio
+**14:00 - 15:30** | Julio |    X     | Julio |    X     | Julio   
+**15:30 - 18:30** | Julio | Renan | Julio | Renan | Julio    
+**18:30 - 21:00** | Renan | Renan | Renan | Renan | Renan 
 
 Os horário reservados:
 
