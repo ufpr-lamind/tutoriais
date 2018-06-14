@@ -32,3 +32,4 @@ Os horário reservados:
 
 CM106 - Otimização I - Professor Abel
 
+15/Junho/2018 - Reserva NDE - professor Abel - 17:30-21:30
