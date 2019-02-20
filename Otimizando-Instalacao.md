@@ -1,22 +1,7 @@
-# Otimizando a instalação em varias maquinas.
-Por ser um processo encomodo executar a mesma sequencia de comandos em diversas
+# Otimizando a instalação em várias máquinas.
+Por ser um processo encomodo executar a mesma sequência de comandos em diversas
 máquinas do laborátorio pode-se optar pela utilização de um script que executa
-os comandos de forma automatica.
-
-## Launcher_Lamind
-Optou-se por utilizar um script (Launcher_Lamind.sh) que irá baixar os arquivos
-necessarios para os procedimentos a serem executados. Alterando apenas os
-arquivos contidos no arquivo comprimido "Files_Lamind.tar" e
-atribuindo ele ao link http://ufpr-lamind.github.io/Files_Lamind.tar, ao se
-executar o script, ele irá
-  - Remover a pasta anterior "Files_Lamind"
-  - Baixar o novo arquivo compactado
-  - Extrair os arquivos de do arquivo compactado
-  - Remover o arquivo compactado
-
-
-  O script por padrão está no diretorio `/home/lamind`, portanto encontra-se no
-  usuário comum e não no administrador.
+os comandos de forma automática.
 
 ## Download em todos.sh
 Script com a função de acessar todos os computadores remotamente através de uma

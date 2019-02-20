@@ -1,9 +1,9 @@
 # SSH
 O SSH é um programa para logar em uma máquina remota e para executar comando em
-uma maquina remota.
-O SSH conecta e logo em um especifico hostname (opcionalmente com um `user`).
+uma máquina remota.
+O SSH conecta e logo em um específico hostname (opcionalmente com um `user`).
 
-## Conctando
+## Conectando
 Para se conectar remotamente a uma máquina basta digitar
 ````bash
 ssh "ip"
@@ -57,7 +57,7 @@ Para resolve-lo será necessário remover a key antiga
 A lista completa dos Ips do Lamind pode ser encontrada em
 [aqui](https://ufpr-lamind.github.io/files/lista-ips.zip)
 
-## Comandos uteis para serem executados
+## Comandos úteis para serem executados
   - sudo shutdonw -P "tempo" "mensagem" - Exibe a "`mensagem`" e desliga a
   máquina ápos `tempo` minutos.
   - wget "link" - Descarrega o arquivo contido no `link`
