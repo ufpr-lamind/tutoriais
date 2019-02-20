@@ -1,5 +1,5 @@
 #!/bin/sh
-#Version 1.5 março/26/18
+#Version 1.6 fevereiro/19
 #------
 #Instalaçao feita no usuário administrador
 
@@ -19,8 +19,8 @@ echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
 sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
-sudo wget https://julialang-s3.julialang.org/bin/linux/x64/0.6/julia-0.6.2-linux-x86_64.tar.gz
-sudo wget https://raw.githubusercontent.com/ufpr-lamind/tutoriais/master/Julia-Packages.jl #Julia packages
+sudo wget https://julialang-s3.julialang.org/bin/linux/x64/1.1/julia-1.1.0-linux-x86_64.tar.gz #ok
+sudo wget https://raw.githubusercontent.com/ufpr-lamind/tutoriais/master/Julia-Packages.jl #ok
 echo  "\n\n Donwload Completo \n\n"
 
 # Instalação de bibliotecas
@@ -42,11 +42,11 @@ sudo gem install jekyll
 echo  "\n\n Instalação Secundaria Completa \n\n"
 
 
-## julia
+## Instalação Julia #ok
 # ao alterar a versao baixada sera necessário alterar a parte após julia-
-tar -vzxf julia-0.6.2-linux-x86_64.tar.gz #extração
-cd julia-d386e40c17/bin
-sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho julia para o 0.6.2
+tar -vzxf julia-1.1.0-linux-x86_64.tar.gz #extração
+cd julia-1.1.0/bin
+sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho Julia
 cd $HOME
 
 sudo -H pip install --upgrade pip
@@ -55,11 +55,14 @@ sudo -H pip install urllib3[secure]
 echo  "\n\n Julia Instalado \n\n"
 
 #Julia packages
+# esse comando garante ao arquivo a permissão necessária para ser executado dentro da interface Julia
 sudo chmod a+x Julia-Packages.jl
-# os pacotes devem ser instalados na interface Julia
+# ATENÇÃO: os pacotes devem ser instalados na interface Julia
+# No terminal digite 'julia' e de enter, a interface do Julia deverá estar aberta
+# O comando 'include("Julia-Packages.jl")' deve iniciar as instalações
 
 #Remove arquivos de instalação
-sudo rm ~/julia-0.6.2-linux-x86_64.tar.gz
+sudo rm ~julia-1.1.0-linux-x86_64.tar.gz
 sudo rm ~/rstudio-0.99.903-amd64.deb
 sudo apt-get autoremove
 echo  "\n\n Arquivos de instalação removidos \n\n"
