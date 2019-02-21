@@ -18,7 +18,7 @@ sudo apt-get upgrade -y
 echo "\n\n Update Completo \n\n"
 
 # Download de Arquivos
-sudo wget https://download1.rstudio.org/rstudio-0.99.903-amd64.deb # RStudio
+sudo wget https://download1.rstudio.org/rstudio-xenial-1.1.463-amd64.deb #ok
 sudo wget https://julialang-s3.julialang.org/bin/linux/x64/1.1/julia-1.1.0-linux-x86_64.tar.gz #ok
 sudo wget https://raw.githubusercontent.com/ufpr-lamind/tutoriais/master/Julia-Packages.jl #ok
 echo  "\n\n Donwload Completo \n\n"
@@ -31,7 +31,7 @@ echo  "\n\n Biblioteca Completa \n\n"
 sudo apt-get install atom build-essential cmake curl fpc ink ipython3-notebook g++ gcc maxima \
 geany gems geogebra gfortran git make nodejs octave python3-matplotlib \
 python3-pip  python3-yaml python-dev python-pip python-setuptools \
-r-base ruby-dev ruby2.2 ruby2.3 ssh subversion texlive-latex-extra texlive-full unrar vim -y
+r-base ruby-full ssh subversion texlive-latex-extra texlive-full unrar vim -y
 echo  "\n\n Instalação Principal Completa \n\n"
 
 # Instalações secundarias
@@ -63,6 +63,6 @@ sudo chmod a+x Julia-Packages.jl
 
 #Remove arquivos de instalação
 sudo rm ~julia-1.1.0-linux-x86_64.tar.gz
-sudo rm ~/rstudio-0.99.903-amd64.deb
+sudo rm ~rstudio-xenial-1.1.463-amd64.deb
 sudo apt-get autoremove
 echo  "\n\n Arquivos de instalação removidos \n\n"
