@@ -28,10 +28,9 @@ sudo apt-get install libjpeg62
 echo  "\n\n Biblioteca Completa \n\n"
 
 # Instalação principal
-sudo apt-get install atom build-essential cmake curl fpc ink ipython3-notebook g++ gcc maxima \
-geany gems geogebra gfortran git make nodejs octave python3-matplotlib \
-python3-pip  python3-yaml python-dev python-pip python-setuptools \
-r-base ruby-full ssh subversion texlive-latex-extra texlive-full unrar vim -y
+sudo apt-get install atom build-essential cmake curl fpc ink python3.6 g++ gcc maxima geany gems geogebra \
+gfortran git make nodejs octave python-dev python-pip python3-pip python-setuptools r-base ruby-full \
+ssh subversion texlive-latex-extra texlive-full unrar vim python3-notebook python3-matplotlib python3-yaml -y
 echo  "\n\n Instalação Principal Completa \n\n"
 
 # Instalações secundarias
@@ -49,9 +48,9 @@ cd julia-1.1.0/bin
 sudo ln -s -f $PWD/julia /usr/local/bin/ #cria o atalho Julia
 cd $HOME
 
-sudo -H pip install --upgrade pip
-sudo -H pip install jupyter
-sudo -H pip install urllib3[secure]
+sudo pip install --upgrade pip
+sudo pip install jupyter
+sudo pip install urllib3[secure]
 echo  "\n\n Julia Instalado \n\n"
 
 #Julia packages
@@ -66,3 +65,4 @@ sudo rm ~julia-1.1.0-linux-x86_64.tar.gz
 sudo rm ~rstudio-xenial-1.1.463-amd64.deb
 sudo apt-get autoremove
 echo  "\n\n Arquivos de instalação removidos \n\n"
+
