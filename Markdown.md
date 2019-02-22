@@ -1,8 +1,7 @@
 # Markdown
 
 Markdown é a linguagem de marcação que utilizaremos para a documentação das
-atividades.
-no LAMIND e dos tutoriais de manutenção do laboratório.
+atividades no LAMIND e dos tutoriais de manutenção do laboratório.
 
 ## Introdução (tradução do Markdown Basics)
 

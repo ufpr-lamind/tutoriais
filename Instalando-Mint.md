@@ -13,7 +13,7 @@
    `ç`,`ã`,`é` estão devidamente associadas
   - Preencha
     - Name: `LAMIND`
-    - Computer Name: `lamind-1-1` (lamind-fileira-posiçao) a partir do mais
+    - Computer Name: `lamind-1-1` (lamind-fileira-posição) a partir do mais
     próximo do quadro e mais próximo da porta
     - User: `lamind-admin`
     - Password: determinada previamente
@@ -21,7 +21,7 @@
   - Reinicie o computador e faça o login
   - Agora você vai fazer a atualização inicial com os passos abaixo
   e deve demorar alguns minutos.
-  Enquanto a atualização vai sendo feito, continue com os passos que não
+  Enquanto a atualização vai sendo feita, continue com os passos que não
   envolvem o terminal.
   - Abra o terminal (`gnome-terminal`) e digite
 ````bash
@@ -60,14 +60,12 @@ onde `*dir*` é o diretório onde foi baixado o script. Para executá-lo utilize
 
 O script irá baixar e mover o script `Launcher_Lamind.sh` para o usuário comum.
 Para mais informações acesse [o post no site](http://ufpr-lamind.github.io/instalacao/2016/11/28/Launcher_Lamind-e-Files_Lamind.html)
-Ao executa-lo, será baixo diversos arquivos dentre eles o `Julia-Packagjs.jl`.
-Com os softwares instalados, é hora de instalar os pacotes no julia, o que deve
-ser feita em todas as versões do julia instaladas.**OBS** Durante a execução do
-`Instalador-Lamind` serão criados os atalhos julia e julia-0.4.6 que serão
-usados para a escolha da versão do julia (julia para a versão 0.5.0 e
-julia-0.4.6 para a versão 0.4.6). Pode-se usar os comandos para a instalação
-dos pacotes
+Ao executá-lo, será baixo diversos arquivos dentre eles o `Julia-Packagjs.jl`.
+Com os softwares instalados, é hora de instalar os pacotes no Julia, o que deve
+ser feita em todas as versões do julia instaladas.**OBS** Após a instalação dos softwares,
+devem ser instalados os pacotes do Julia dentro do próprio terminal do Julia, com
+auxílio do arquivo 'Julia-Packages.jl', conforme os comandos abaixo
 ````bash
-julia Files_Lamind/Julia-Packages.jl
-julia-0.4.6 Files_Lamind/Julia-Packages.jl
-````  
+julia
+include("Julia-Packages.jl")
+````

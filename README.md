@@ -10,11 +10,15 @@ Também temos uma versão disponível em
 
 ## Situação atual
 
-[Horário de funcionamento](horario.md)
+[Horário de funcionamento](https://github.com/ufpr-lamind/ufpr-lamind.github.io/blob/master/horario.md)
 
 **Coordenador**: Abel Soares Siqueira
 
 **Estagiários**:
+  - [Julio](https://github.com/JulioParodi)
+  - [Renan](https://github.com/RenanOD)
+
+  Anteriores:
   - Andressa
   - André
 
