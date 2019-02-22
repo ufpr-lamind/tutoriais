@@ -58,7 +58,7 @@ A lista completa dos Ips do Lamind pode ser encontrada em
 [aqui](https://ufpr-lamind.github.io/files/lista-ips.zip)
 
 ## Comandos úteis para serem executados
-  - sudo shutdonw -P "tempo" "mensagem" - Exibe a "`mensagem`" e desliga a
+  - sudo shutdown -P "tempo" "mensagem" - Exibe a "`mensagem`" e desliga a
   máquina ápos `tempo` minutos.
   - wget "link" - Descarrega o arquivo contido no `link`
   - scp "arquivo" "Destino" - Tranfere o `arquivo` contido localemente para
